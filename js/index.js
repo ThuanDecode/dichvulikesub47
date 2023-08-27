@@ -5892,44 +5892,44 @@ show_date_time();
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Telegram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://t.me/Minhtricker23', '_blank');
+        window.open('https://t.me/ThuanDesigner', '_blank');
     });
 });
 
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Github');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://github.com/Vminhdz009', '_blank');
+        window.open('https://github.com/ThuanDecode', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Facebook');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.facebook.com/petra.hlavackova.568', '_blank');
+        window.open('https://www.facebook.com/thuandeveloper2004', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Instagram');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.instagram.com/vminh209/', '_blank');
+        window.open('https://www.instagram.com/trithuan.204', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Tiktok');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://tiktok.com/@minh×pro', '_blank');
+        window.open('https://tiktok.com/@vianhlagio_04', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Youtube');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://www.youtube.com/channel/leminhtricker2030', '_blank');
+        window.open('https://www.youtube.com/channel/vianhlagio_04', '_blank');
     });
 });
 document.addEventListener('DOMContentLoaded', function () {
     var telegramDiv = document.querySelector('.Zalo');
     telegramDiv.addEventListener('click', function () {
-        window.open('https://zalo.me/0345924478', '_blank');
+        window.open('https://zalo.me/thuandeveloper', '_blank');
     });
 });
 
